@@ -3,7 +3,7 @@
 ### Overview
 This project involves building a distributed system for weather data analysis and forecasting. The system leverages open-source tools, cloud computing, and machine learning techniques to process and analyze large-scale weather data in real-time. The project includes data ingestion, processing, storage, and visualization, providing users with up-to-date weather forecasts and historical data analysis.
 
-### ystem Architecture
+### System Architecture
 #### Components:
 
 ###### Data Ingestion: Real-time acquisition of weather data from multiple APIs.
